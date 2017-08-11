@@ -1,0 +1,5 @@
+{
+    "board": "adafruit:avr:flora8",
+    "port": "/dev/cu.usbmodem1411",
+    "sketch": "SparkleBackpack.ino"
+}
